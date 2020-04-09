@@ -23,6 +23,26 @@
 **Auxiliary verb:** avoir (arriver, entrer, monter, passer, rester, rentrer, retourner, and tomber use être)
 
 ## Subgroup ayer/uyer/oyer
+French stem-changing verbs are conjugated with the same endings as regular -ER verbs but have two different radicals or stems.
+
+* Verbs that end in -ayer (see below) have an optional stem change
+* Verbs that end in -oyer and -uyer have a required stem change
+
+eg: 
+essayer
+
+je essaye or je essaies 
+
+tu essayes or tu essaies
+
+il essaye or il essaie
+
+nous essayons 
+
+vous essayez
+
+ils essayent or ils essaient
+
 # Verb Group ir
 usually constructed from nouns and adjectives eg:
 * fin -> finir
